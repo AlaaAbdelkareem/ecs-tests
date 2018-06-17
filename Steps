@@ -1,0 +1,14 @@
+1- Frok the repo 
+2- Clone and Edit the code 
+   git clone https://github.com/AlaaAbdelkareem/ecs-tests
+
+3- git add . 
+   git commit -m "Refactor the code to be both more legible and optimized"
+   git push 
+
+4- create pull reqest 
+
+5-add this file and try to use Semantic commits
+  git add steps
+  git commit -m "docs: explain the steps to do this task"
+  git push
